@@ -2,13 +2,8 @@
 
 <div align="center">
 
-<img width="100%" src="assets/banner-violet.svg" alt="Albert Muntal, full-stack developer">
-
-<a href="https://github.com/DrMunty">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=B8ACF5&center=true&vCenter=true&width=640&lines=I+build+real+products%2C+not+just+demos.;Angular+%C2%B7+Ionic+%C2%B7+NestJS+%C2%B7+Prisma;Shipping+a+fitness+app+to+the+App+Store+and+Google+Play.;Tests+first.+Pure+functions.+Clean+diffs." alt="Typing animation">
-</a>
-
-<br><br>
+<img width="100%" src="assets/banner-v2.svg" alt="Albert Muntal, full-stack developer">
+<img width="100%" src="assets/tagline.svg" alt="I build real products, not just demos. Angular, Ionic, NestJS and Prisma. Shipping a fitness app to the App Store and Google Play. Tests first. Pure functions. Clean diffs.">
 
 <img src="https://img.shields.io/badge/Open%20to-Junior%20%2F%20Full--stack%20roles-8c7ae6?style=for-the-badge&labelColor=0d0b14" alt="Open to work">
 <img src="https://img.shields.io/badge/Based%20in-Spain-0d0b14?style=for-the-badge&labelColor=0d0b14&color=2a2440" alt="Spain">
