@@ -15,7 +15,7 @@
 
 ## About me
 
-I'm a full-stack developer who likes to take a product from the idea to production: design, API, mobile app, tests and deploy. My main project, **LightWeight**, is a real fitness product with a mobile app, a REST API, a trainer-client marketplace and a chat, and it is being prepared for the stores.
+I'm a full-stack developer who likes to take a product from the idea to production: design, API, mobile/web app, tests and deploy. My main project, **LightWeight**, is a real fitness product with a mobile app, a REST API, a trainer-client marketplace and a chat, and it is being prepared for the stores with future features such as calorie and food tracking.
 
 - I write the **tests first** and keep the logic in small **pure functions**, so the components only render.
 - I care about the details that make an app feel finished: safe areas on notched phones, no overflow at 320 px, accessible labels, dark mode.
@@ -37,12 +37,12 @@ I'm a full-stack developer who likes to take a product from the idea to producti
 
 | | |
 |---|---|
-| **Routines** | Creation wizard (sets, rep range, rest and RIR per set), weekly calendar, guided workout with rest timer, and a draft that survives closing the app |
-| **Progress** | Session history, per-exercise evolution and weekly volume per muscle group |
-| **Coaching** | Clients find a trainer and hire a service; trainers manage clients, requests and routines; chat with text and photos |
-| **Admin** | Verification of trainers' qualifications and refunds |
-| **Nearby gyms** | Map of gyms around you, built on OpenStreetMap data |
-| **Native** | Android and iOS with Capacitor, local notifications for the rest timer |
+| **Routines** | Creation wizard (sets, rep range, rest and RIR per set), weekly calendar, guided workout with rest timer, and a draft that survives closing the app. |
+| **Progress** | Session history, per-exercise evolution and weekly volume per muscle group. |
+| **Coaching** | Clients find a trainer and hire a service; trainers manage clients, requests and routines; chat with text and photos. |
+| **Admin** | Verification of trainers' qualifications and refunds. |
+| **Nearby gyms** | Map of gyms around you, built on OpenStreetMap data. |
+| **Native** | Android and iOS with Capacitor, local notifications for the rest timer. |
 
 <!--
   Cuando hagas públicos los repositorios, descomenta esto para mostrar sus tarjetas:
@@ -109,8 +109,8 @@ I'm a full-stack developer who likes to take a product from the idea to producti
 <div align="center">
 
 <a href="https://github.com/DrMunty"><img src="https://img.shields.io/badge/GitHub-DrMunty-0d0b14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:al96@hotmail.es"><img src="https://img.shields.io/badge/Email-Write%20to%20me-8c7ae6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0b14" alt="Email"></a>
+<a href="https://www.linkedin.com/in/Talbert-muntal-perez/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:amuntalperez@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-8c7ae6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0b14" alt="Email"></a>
 
 <br><br>
 
