@@ -4,7 +4,7 @@
 
 I'm a full-stack developer based in Spain. I'm building **LightWeight**, a fitness app where people plan and log their training, and can hire a coach.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez) or write to me at [al96@hotmail.es](mailto:al96@hotmail.es).
+You can find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez) or write to me at [amuntalperez@gmail.com](mailto:amuntalperez@gmail.com).
 
 ## LightWeight
 
