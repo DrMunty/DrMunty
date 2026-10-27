@@ -22,6 +22,7 @@ Try the live demo at [beastmode-fitnessapp.vercel.app](https://beastmode-fitness
 </div>
 
 
+
 - **Front end:** Angular, Ionic, Capacitor, Tailwind CSS
 - **Back end:** NestJS, Prisma, PostgreSQL
 - **Tests:** Vitest on the front end, Jest on the API, plus end-to-end tests over HTTP
