@@ -21,6 +21,7 @@ Try the live demo at [beastmode-fitnessapp.vercel.app](https://beastmode-fitness
 <img width="560" src="assets/architecture-mint.svg" alt="The Angular and Ionic app talks to a NestJS API, which uses PostgreSQL on Neon, Cloudflare R2 for photos and documents, and OpenStreetMap for nearby gyms.">
 </div>
 
+
 - **Front end:** Angular, Ionic, Capacitor, Tailwind CSS
 - **Back end:** NestJS, Prisma, PostgreSQL
 - **Tests:** Vitest on the front end, Jest on the API, plus end-to-end tests over HTTP
