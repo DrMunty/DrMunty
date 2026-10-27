@@ -34,7 +34,7 @@ Try the live demo at [beastmode-fitnessapp.vercel.app](https://beastmode-fitness
 
 <div align="center">
 <img width="560" src="assets/code-mint.svg" alt="The TypeScript function suggestSets from the LightWeight API, shown below as text.">
-<p><sub><code>suggestSets</code>, from the API (comments removed): double progression, set by set. A set that reaches the top of its rep range goes up one weight step and the others repeat their weight. It is a pure function, with no database and no framework, and it has its own tests.</sub></p>
+<p><sub><code>suggestSets</code>, from the API: double progression, set by set. A set that reaches the top of its rep range goes up one weight step and the others repeat their weight. It is a pure function, with no database and no framework, and it has its own tests.</sub></p>
 </div>
 
 <details>
