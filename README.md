@@ -34,4 +34,4 @@ Try the live demo at [beastmode-fitnessapp.vercel.app](https://beastmode-fitness
 
 ## Get In Touch
 
-I’m based in Spain and looking for a junior full-stack role. If that sounds like your team, write to me at [al96@hotmail.es](mailto:al96@hotmail.es) or find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez).
+I’m based in Spain and looking for a junior full-stack role. If that sounds like your team, write to me at [amuntalperez@gmail.com](mailto:amuntalperez@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez).
