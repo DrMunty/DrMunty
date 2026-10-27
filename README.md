@@ -1,19 +1,21 @@
 <!-- Perfil de GitHub de DrMunty. Va en el repositorio público DrMunty/DrMunty, en la raíz, como README.md -->
 
-<img width="100%" src="assets/banner-quiet.svg" alt="Albert Muntal, full-stack developer">
+<img width="100%" src="assets/banner-centered.svg" alt="Albert Muntal, full-stack developer">
 
-I'm a full-stack developer based in Spain. I'm building **LightWeight**, a fitness app where people plan and log their training, can see their progress and can hire a coach if they need help with their routines.
+I'm a full-stack developer based in Spain. I'm building **LightWeight**, a fitness app where people plan and log their training, and can hire a coach.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez) or write to me at [amuntalperez@gmail.com](mailto:amuntalperez@gmail.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez) or write to me at [al96@hotmail.es](mailto:al96@hotmail.es).
 
 ## LightWeight
 
 A mobile app for people who lift and the coaches who work with them. There is a [live demo](https://beastmode-fitnessapp.vercel.app), and I'm packaging it for Android and iOS with Capacitor. The repositories are private for now, so if you'd like to see the code, write to me.
 
+<img width="100%" src="assets/app-quiet.svg" alt="Three screens of the LightWeight app: the home screen, today's training session with its exercises, and the weekly volume chart per muscle group.">
+
 - **Routines.** A short questionnaire builds the plan: sets, rep range, rest and RIR per set. Then a weekly calendar and a guided workout with a rest timer.
 - **Progress.** Session history, evolution per exercise and weekly volume per muscle group.
-- **Coaching.** Clients find a trainer and hire a service. Trainers manage their clients and routines, and they chat with text and photos (videos and calls coming soon).
-- **Nearby gyms.** A map of gyms around you, from OpenStreetMap data, so that you can find your perfect gym.
+- **Coaching.** Clients find a trainer and hire a service. Trainers manage their clients and routines, and they chat with text and photos.
+- **Nearby gyms.** A map of gyms around you, from OpenStreetMap data.
 
 ## How it's built
 
