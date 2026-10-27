@@ -32,6 +32,41 @@ Try the live demo at [beastmode-fitnessapp.vercel.app](https://beastmode-fitness
 - One branch per feature and small pull requests. CI runs the type check, the tests and the build on each one.
 - I check every screen at 375 and 320&nbsp;px, and on an iPhone with a Dynamic Island, because that is where layouts break.
 
+<div align="center">
+<img width="560" src="assets/code-mint.svg" alt="The TypeScript function suggestSets from the LightWeight API, shown below as text.">
+<p><sub><code>suggestSets</code>, from the API (comments removed): double progression, set by set. A set that reaches the top of its rep range goes up one weight step and the others repeat their weight. It is a pure function, with no database and no framework, and it has its own tests.</sub></p>
+</div>
+
+<details>
+<summary>Read the code as text</summary>
+
+```ts
+export function suggestSets(
+  sets: LoggedSet[],
+  targetRepsMax: number | number[],
+  loadType: LoadType,
+): SetSuggestion[] {
+  const step = progressionStep(loadType);
+
+  return sets.map((set, index) => {
+    const reachedMax =
+      set.reps >= capAt(targetRepsMax, index);
+    return {
+      order: index + 1,
+      type: set.type,
+      lastWeight: set.weight,
+      lastReps: set.reps,
+      suggestedWeight: reachedMax
+        ? round2(set.weight + step)
+        : set.weight,
+      reason: reachedMax ? 'INCREASE' : 'MAINTAIN',
+    };
+  });
+}
+```
+
+</details>
+
 ## Get In Touch
 
-I’m based in Spain and looking for a junior full-stack role. If that sounds like your team, write to me at [amuntalperez@gmail.com](mailto:amuntalperez@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez).
+I’m based in Spain and looking for a junior full-stack role. If that sounds like your team, write to me at [al96@hotmail.es](mailto:al96@hotmail.es) or find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez).
