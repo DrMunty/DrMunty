@@ -2,9 +2,9 @@
 
 <img width="100%" src="assets/banner-quiet.svg" alt="Albert Muntal, full-stack developer">
 
-I'm a full-stack developer based in Spain. I'm building **LightWeight**, a fitness app where people plan and log their training, and can hire a coach.
+I'm a full-stack developer based in Spain. I'm building **LightWeight**, a fitness app where people plan and log their training, can see their progress and can hire a coach if they need help with their routines.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez) or write to me at [al96@hotmail.es](mailto:al96@hotmail.es).
+You can find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez) or write to me at [amuntalperez@gmail.com](mailto:amuntalperez@gmail.com).
 
 ## LightWeight
 
@@ -12,8 +12,8 @@ A mobile app for people who lift and the coaches who work with them. There is a 
 
 - **Routines.** A short questionnaire builds the plan: sets, rep range, rest and RIR per set. Then a weekly calendar and a guided workout with a rest timer.
 - **Progress.** Session history, evolution per exercise and weekly volume per muscle group.
-- **Coaching.** Clients find a trainer and hire a service. Trainers manage their clients and routines, and they chat with text and photos.
-- **Nearby gyms.** A map of gyms around you, from OpenStreetMap data.
+- **Coaching.** Clients find a trainer and hire a service. Trainers manage their clients and routines, and they chat with text and photos (videos and calls coming soon).
+- **Nearby gyms.** A map of gyms around you, from OpenStreetMap data, so that you can find your perfect gym.
 
 ## How it's built
 
