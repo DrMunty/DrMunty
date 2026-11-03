@@ -1,6 +1,6 @@
 <!-- GitHub profile README for DrMunty. It lives in the public repository DrMunty/DrMunty, at the root, as README.md -->
 
-<img width="100%" src="assets/banner-mint.svg" alt="Albert Muntal, full-stack developer">
+<img width="100%" src="assets/banner-fitte.svg" alt="Albert Muntal, full-stack developer">
 
 I’m building **Fittë**, a training and coaching app, end to end: an Angular and Ionic front end, a NestJS API and a PostgreSQL database.
 
@@ -16,6 +16,8 @@ I’m building **Fittë**, a training and coaching app, end to end: an Angular a
 A mobile app for people who lift and the coaches who work with them. A short questionnaire builds the plan (sets, rep range, rest and RIR, or reps in reserve, per set), a weekly calendar schedules it, and a guided workout with a rest timer runs each session. It also charts weekly volume per muscle group, lets clients find and hire a coach who builds and adjusts their routines, and maps gyms nearby from OpenStreetMap data.
 
 Try the live demo at [beastmode-fitnessapp.vercel.app](https://beastmode-fitnessapp.vercel.app). I’m packaging the app for Android and iOS with Capacitor. The repositories are private for now, so if you’d like to see the code, write to me.
+
+All my projects, and the Fittë routine assistant running live, are at [albertdev-portfolio.vercel.app](https://albertdev-portfolio.vercel.app).
 
 ## How It’s Built
 
@@ -72,4 +74,4 @@ export function suggestSets(
 
 ## Get In Touch
 
-I’m based in Spain and looking for a junior full-stack role. If that sounds like your team, write to me at [amuntalperez@gmail.com](mailto:amuntalperez@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez).
+I’m based in Spain and looking for a junior full-stack role. If that sounds like your team, write to me at [al96@hotmail.es](mailto:al96@hotmail.es) or find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez).
