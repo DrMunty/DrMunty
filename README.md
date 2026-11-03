@@ -2,7 +2,7 @@
 
 <img width="100%" src="assets/banner-fitte.svg" alt="Albert Muntal, full-stack developer">
 
-I’m building **Fittë**, a training and coaching app, end to end: an Angular and Ionic front end, a NestJS API and a PostgreSQL database.
+Front-end and full-stack developer. I build web and mobile apps end to end, with Angular, Ionic and TypeScript on the front and NestJS on the back. My main project, Fittë, is a fitness and coaching app that I built alone, with tests written first and more than 280 pull requests merged.
 
 <div align="center">
 <img width="100%" src="assets/app-fitte.svg" alt="Three screens of the Fittë app: today’s training session with its exercises, the exercise library, and the map of nearby gyms.">
@@ -74,4 +74,4 @@ export function suggestSets(
 
 ## Get In Touch
 
-I’m based in Spain and looking for a junior full-stack role. If that sounds like your team, write to me at [al96@hotmail.es](mailto:al96@hotmail.es) or find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez).
+I’m based in Spain and looking for a junior full-stack role. If that sounds like your team, write to me at [amuntalperez@gmail.com](mailto:amuntalperez@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/albert-muntal-perez).
